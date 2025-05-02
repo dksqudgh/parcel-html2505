@@ -1,0 +1,6 @@
+#이 파일은 깃에 올리지 않아도 되는 파일들 관리하는곳
+
+node_modules/
+dist/
+build/
+.parcel-cache
