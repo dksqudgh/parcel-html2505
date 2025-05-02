@@ -13,5 +13,12 @@
 2. npm init으로 폴더 관리하는 방법 (package.json 생김 npm init -y)  -y >> 아몰랑 기본값으로 너가 알아서 라는 뜻
 
 3. parcel로 폴더 관리하는 방법 (package.json 생김)
+ - 상품화까지 생각했을때!
 
 ### 수업소스 깃으로 관리하기
+
+1. 로컬에서 git init 하면서 시작하면 원격에서 README.md 체크 할 필요없음
+
+2. 그러나 원격에서 먼저 레포를 만들고 clone으로 만들때는 원격에서 README.md를 만들어줘야 함 
+
+.gitignore 는 두 방법 모두 만들어줘야 함 그리고 html이니까 *node로 선택해주기*
